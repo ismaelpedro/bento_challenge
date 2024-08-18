@@ -1,0 +1,76 @@
+{
+  "top_deal": [
+    {
+      "message": "FRESH AVOCADO\nUP TO 15% OFF",
+      "image": "https://i.pinimg.com/originals/d7/ea/7a/d7ea7a3ad9110b018fbba872da72dbee.png",
+      "name": "Organic Fresh Green Cabbage",
+      "price": 6.55,
+      "old_price": 8.15,
+      "is_special": true,
+      "rating": 2.5,
+      "details": "This is a detailed description of the item. It provides information about the product, including its benefits, features, and other relevant details.",
+      "tags": [
+        "Vegetarian",
+        "Halal Food",
+        "Gluten-free"
+      ]
+    },
+    {
+      "message": "FRESH ORANGE\nUP TO 10% OFF",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/025/217/760/small_2x/ripe-orange-transparent-background-png.png",
+      "name": "Organic Fresh Green Cabbage",
+      "details": "This is a detailed description of the item. It provides information about the product, including its benefits, features, and other relevant details.",
+      "old_price": 8.15,
+      "is_special": true,
+      "price": 6.0,
+      "rating": 2.5,
+      "tags": [
+        "Vegetarian",
+        "Halal Food",
+        "Gluten-free"
+      ]
+    },
+    {
+      "message": "FRESH CABBAGE\nUP TO 20% OFF",
+      "image": "https://pngimg.com/d/cabbage_PNG8804.png",
+      "name": "Organic Fresh Green Cabbage",
+      "details": "This is a detailed description of the item. It provides information about the product, including its benefits, features, and other relevant details.",
+      "old_price": 8.15,
+      "is_special": false,
+      "price": 6.22,
+      "rating": 2.5,
+      "tags": [
+        "Vegetarian",
+        "Halal Food",
+        "Gluten-free"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Vegan",
+      "products": []
+    },
+    {
+      "id": 2,
+      "name": "Meat",
+      "products": []
+    },
+    {
+      "id": 3,
+      "name": "Fruits",
+      "products": []
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "products": []
+    },
+    {
+      "id": 5,
+      "name": "Fish",
+      "products": []
+    }
+  ]
+}
